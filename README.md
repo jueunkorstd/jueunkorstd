@@ -19,7 +19,7 @@
 <br><br><br>
 
 ## 🐾 𝙶𝚒𝚝𝙷𝚞𝚋 🐾 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkorstd&theme=buefy)](https://github.com/jueunkorstd/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkorstd&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunkorstd&theme=buefy)](https://github.com/jueunkorstd/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueunkorstd&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 
 ## 💻 𝙱𝙾𝙹 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 💻 ##
