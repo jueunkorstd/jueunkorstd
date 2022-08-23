@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=ᶠᵘᶰ%20ᶠᵃᶜᵗᵎ%20𝐽𝑈𝐸𝑈𝑁%20𝑤𝑎𝑠%20𝑏𝑜𝑟𝑛%20𝑖𝑛%20𝐽𝑢𝑛𝑒.&fontSize=40&animation=twinkling&fontAlignY=40)
 
-<div align='center'>
+<div>
 
 ## 🛠 𝚃𝚘𝚘𝚕𝚜 🛠 ##
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
