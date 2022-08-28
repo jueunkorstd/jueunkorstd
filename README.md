@@ -1,7 +1,5 @@
 <!-- **jueunkorstd/jueunkorstd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=ᶠᵘᶰ%20ᶠᵃᶜᵗᵎ%20𝐽𝑈𝐸𝑈𝑁%20𝑤𝑎𝑠%20𝑏𝑜𝑟𝑛%20𝑖𝑛%20𝐽𝑢𝑛𝑒.&fontSize=40&animation=twinkling&fontAlignY=40)
-
 <div align=center>
 
 ## 🛠 𝚃𝚘𝚘𝚕𝚜 🛠 ##
@@ -26,5 +24,3 @@
  <img src="http://mazandi.herokuapp.com/api?handle=jueunkorstd&theme=cold"/>
  <br><br><br>
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
