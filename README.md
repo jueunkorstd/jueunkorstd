@@ -1,6 +1,6 @@
 <!-- **jueunkorstd/jueunkorstd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<div align=center>
+<div align=>
 
 ## 🛠 𝚃𝚘𝚘𝚕𝚜 🛠 ##
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
