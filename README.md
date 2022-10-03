@@ -1,4 +1,4 @@
-<!-- **jueunkorstd/jueunkorstd** is a ✨ _      special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **jueunkorstd/jueunkorstd** is a ✨ _       special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align=>
 
